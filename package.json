@@ -1,5 +1,6 @@
 {
   "name": "react-movie-app",
+  "homepage": "https://SalimYussuf.github.io/Blue-MovieFinder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
